@@ -22,17 +22,6 @@
         android:hint="Please user name"
         />
 
-    <TextView
-        android:id="@+id/textView9"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:textSize="20dp"
-        android:textColor="#E2DBE3"
-        android:layout_margin="20dp"
-
-        android:hint="Please e-mail"
-         />
-
     <EditText
         android:id="@+id/editTextNumberPassword2"
         android:layout_width="match_parent"
